@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ピュア",
+  "base_artist": "PAS TASTA",
+  "createdAt": "2026-02-25T06:07:45.387939Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マイ・ピュア・レディ",
+      "artist": "尾崎亜美",
+      "has_synced": false,
+      "path": "select/01_マイ・ピュア・レディ_尾崎亜美.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ピュア・マインド",
+      "artist": "Masaki Ueda",
+      "has_synced": false,
+      "path": "select/02_ピュア・マインド_Masaki_Ueda.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ピュア・マインド",
+      "artist": "上田正樹",
+      "has_synced": false,
+      "path": "select/03_ピュア・マインド_上田正樹.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "100％ピュア・レディ",
+      "artist": "キャンディーズ",
+      "has_synced": true,
+      "path": "select/04_100_ピュア・レディ_キャンディーズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "100% ピュア・レディ",
+      "artist": "キャンディーズ",
+      "has_synced": true,
+      "path": "select/05_100__ピュア・レディ_キャンディーズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "マイ ピュア レディ",
+      "artist": "尾崎亜美",
+      "has_synced": false,
+      "path": "select/06_マイ_ピュア_レディ_尾崎亜美.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ピュア",
+      "artist": "柴田　淳",
+      "has_synced": false,
+      "path": "select/07_ピュア_柴田_淳.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "マイ.ピュア.レディ",
+      "artist": "尾崎亜美",
+      "has_synced": false,
+      "path": "select/08_マイ.ピュア.レディ_尾崎亜美.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ピュア (feat. 橋本絵莉子)",
+      "artist": "PAS TASTA",
+      "has_synced": false,
+      "path": "select/pl_01_ピュア_(feat._橋本絵莉子)_PAS_TASTA.txt"
+    }
+  ]
+}
